@@ -1,0 +1,17 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header {
+  margin: 20px 0;
+}
+
+.header > a {
+  color: rgb(220, 9, 20);
+  font-size: 20px;
+  font-weight: bold;
+
+  text-decoration: none;
+}
