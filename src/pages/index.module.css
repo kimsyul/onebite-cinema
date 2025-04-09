@@ -1,0 +1,20 @@
+.recommend_container {
+  display: flex;
+  gap: 5px;
+
+  width: auto;
+}
+
+.all_container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}
+
+.container section {
+  margin-bottom: 50px;
+}
+
+.container section h3 {
+  margin-top: 0px;
+}
